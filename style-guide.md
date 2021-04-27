@@ -33,3 +33,7 @@ I made the desktop design for 1600px (which is what I'm referring to as extra la
 ### Images
 
 All the assets and images are available in this folder. All you have to do is clone the repository.
+
+### Data arrays
+
+In the `data` folder you will find data arrays that you can use in your design. NOTE: I created the data arrays with React in mind so feel free to change them to whatever you want.
